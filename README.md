@@ -5,7 +5,7 @@ A comprehensive analytical framework analyzing global macroeconomic indicators, 
 
 This project was developed to understand macroeconomic policy mechanisms and institutional decision-making in response to economic crises—informed by lived experience of Sri Lanka's 2022 financial crisis.
 
-## ထူ Live Dashboard
+## ထ Live Dashboard
 **[Click here to view the Live Analysis Suite](https://vishnurohith225-beep.github.io/global-economic-dashboard/global_economic_dashboard.html)**
 
 ## Four Interconnected Models
