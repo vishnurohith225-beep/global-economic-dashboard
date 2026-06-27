@@ -3,7 +3,7 @@
 ## Overview
 A comprehensive analytical framework analyzing global macroeconomic indicators, wealth distribution patterns, employment-inflation relationships, and strategic economic projections through 2031.
 
-This project was developed to understand macroeconomic policy mechanisms and institutional decision-making in response to economic crises—informed by lived experience of Sri Lanka's 2022 financial crisis.
+This project was developed to understand macroeconomic policy mechanisms and institutional decision-making in response to economic crises. Informed by lived experience of Sri Lanka's 2022 financial crisis.
 
 ## ထ Live Dashboard
 **[Click here to view the Live Analysis Suite](https://vishnurohith225-beep.github.io/global-economic-dashboard/global_economic_dashboard.html)**
